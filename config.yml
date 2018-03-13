@@ -1,0 +1,13 @@
+filePath: /home/kristof/test-data.xml
+
+server:
+
+  applicationConnectors:
+
+    - type: http
+      port: 9080
+
+  adminConnectors:
+
+    - type: http
+      port: 9081
